@@ -14,4 +14,6 @@
 ##	指定设备
 SRC-IP-CIDR,192.168.100.182/32
 
+##	域名后缀
+DOMAIN-SUFFIX,comodo.com
 
